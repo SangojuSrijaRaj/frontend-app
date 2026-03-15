@@ -3,6 +3,12 @@
   display: flex;
   justify-content: space-between;
   padding: 10px;
+  /* background: linear-gradient(90deg,#6f4e37,#c89f94); */
+  background-image: url("../assets/coffee-log.jpg");
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: 20px center;
+  padding-left: 60px;
 }
 
 .App-Header li {

@@ -6,7 +6,7 @@ function Header() {
   const { user } = useContext(AppContext);
   return (
     <div className="App-Header">
-      <h1>My Store</h1>
+      <h1>CafeCrate</h1>
       <ul>
         <li>
           <Link to="/">Home</Link>
